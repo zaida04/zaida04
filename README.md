@@ -1,9 +1,7 @@
 <div>
   <h1 align="center">Zaid Arshad</h1>
+  <span><h2 align="center">Welcome to my account! My name is Zaid (referred to as Nico on the internet), and I do coding!</h2><h3 align="center">You can see a showcase of some of my more proud projects at https://zaid-arshad.tech</h3></span>
   </div>
-  
-### Welcome to my account! My name is Zaid (referred to as Nico on the internet), and I do coding!
-You can see a showcase of some of my more proud projects at https://zaid-arshad.tech
 
 ## About Me!
 - I currently work at the WCSD District, in their planetarium sector.

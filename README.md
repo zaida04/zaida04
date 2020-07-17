@@ -1,5 +1,7 @@
-<img src="./me.png"></img>
-
+<div>
+  <h1 align="center">Zaid Arshad</h1>
+  </div>
+  
 ### Welcome to my account! My name is Zaid (referred to as Nico on the internet), and I do coding!
 You can see a showcase of some of my more proud projects at https://zaid-arshad.tech
 

@@ -1,4 +1,4 @@
-<img src="me.png"></img>
+<img src="./me.png"></img>
 
 ### Welcome to my account! My name is Zaid (referred to as Nico on the internet), and I do coding!
 You can see a showcase of some of my more proud projects at https://zaid-arshad.tech

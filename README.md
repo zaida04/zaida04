@@ -1,4 +1,4 @@
-![Me](me.png)
+![Me](https://raw.githubusercontent.com/zaida04/zaida04/master/me.png)
 <div>
   <span><h2 align="center">Welcome to my account! My name is Zaid (referred to as Nico on the internet), and I do coding!</h2><h3 align="center">You can see a showcase of some of my more proud projects at https://zaid-arshad.tech</h3></span>
   </div>

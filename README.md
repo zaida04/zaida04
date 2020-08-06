@@ -41,7 +41,7 @@ _____________|','   ///_/-------------/   |
 - 🦀 Rust
 - <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"> TypeScript
 
-### Data about me
+### Data about me:
 <img align="left" alt="Zaid's Github Stats" src="https://github-readme-stats.vercel.app/api?username=zaida04&count_private=true&show_icons=true&hide_border=true&theme=dark" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaida04)](https://github.com/zaida04/github-readme-stats)

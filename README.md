@@ -1,5 +1,27 @@
 <h1 align="left">Zaid</h1>
 
+```
+                             \\\\\\\
+                            \\\\\\\\\\\\
+                          \\\\\\\\\\\\\\\
+  -----------,-|           |C>   // )\\\\|
+           ,','|          /    || ,'/////|
+---------,','  |         (,    ||   /////
+         ||    |          \\  ||||//''''|
+         || no |           |||||||     _|
+         ||    |______      `````\____/ \
+         ||    |     ,|         _/_____/ \
+         ||  ,'    ,' |        /          |
+         ||,'    ,'   |       |         \  |
+_________|/    ,'     |      /           | |
+_____________,'      ,',_____|      |    | |
+             |     ,','      |      |    | |
+             |   ,','    ____|_____/    /  |
+             | ,','  __/ |             /   |
+_____________|','   ///_/-------------/   |
+              |===========,'
+```
+
 <p align="left">Hey there! My name is Zaid, more commonly known as "Nico" on the internet. </p>
 
 ### Languages and Tools:
@@ -17,7 +39,7 @@
 
 - C++
 - 🦀 Rust
-- TypeScript
+- <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"> TypeScript
 
 ### Data about me
 <img align="left" alt="Zaid's Github Stats" src="https://github-readme-stats.vercel.app/api?username=zaida04&count_private=true&show_icons=true&hide_border=true&theme=dark" />

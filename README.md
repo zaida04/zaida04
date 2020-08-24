@@ -29,6 +29,12 @@
 
 <h3 align="middle">My Recent Activity: </h3>
 <!--START_SECTION:activity-->
+1. ❗️ Closed issue [#1](https://github.com//zaida04/CalorieCounter/issues/1) in [zaida04/CalorieCounter](https://github.com//zaida04/CalorieCounter)
+2. 🗣 Commented on [#13](https://github.com//Paultje52/BananenBase/issues/13) in [Paultje52/BananenBase](https://github.com//Paultje52/BananenBase)
+3. 💪 Opened PR [#13](https://github.com//Paultje52/BananenBase/pull/13) in [Paultje52/BananenBase](https://github.com//Paultje52/BananenBase)
+4. ❌ Closed PR [#12](https://github.com//Paultje52/BananenBase/pull/12) in [Paultje52/BananenBase](https://github.com//Paultje52/BananenBase)
+5. 🗣 Commented on [#12](https://github.com//Paultje52/BananenBase/issues/12) in [Paultje52/BananenBase](https://github.com//Paultje52/BananenBase)
+<!--END_SECTION:activity-->
 
 <br><br>
 <h3 align="middle">Contact Me: </h3>

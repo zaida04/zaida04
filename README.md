@@ -28,6 +28,8 @@
 </p>
 
 <h3 align="middle">My Recent Activity: </h3>
+
+
 <!--START_SECTION:activity-->
 1. ❗️ Closed issue [#1](https://github.com//zaida04/CalorieCounter/issues/1) in [zaida04/CalorieCounter](https://github.com//zaida04/CalorieCounter)
 2. 🗣 Commented on [#13](https://github.com//Paultje52/BananenBase/issues/13) in [Paultje52/BananenBase](https://github.com//Paultje52/BananenBase)

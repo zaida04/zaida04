@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **➕ C++, 🦀 Rust, and TypeScript**
 
-- 👨‍💻 All of my projects are available at [zaid-arshad.tech](zaid-arshad.tech)
+- 👨‍💻 All of my projects are available at [zaid-arshad.tech](https://zaid-arshad.tech)
 
 - 📫 How to reach me **me@zaid-arshad.tech or on Discord: ociN#3727**
 

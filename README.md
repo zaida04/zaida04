@@ -22,7 +22,8 @@
 
 <p align="middle">
 <img align="middle" alt="Zaid's Github Stats" src="https://github-readme-stats.vercel.app/api?username=zaida04&count_private=true&show_icons=true&hide_border=true&theme=dark&include_all_commits=true" />
-
+</p>
+<p align="middle">
 <img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaida04&theme=dark"></img>
 </p>
 

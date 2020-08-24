@@ -26,7 +26,10 @@
 
 ### Contact me:
 
-<p align="center">
-<a href="https://instagram.com/zaid.arsh04" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="zaid.arsh04" height="30" width="30" /></a>
+<p align="left">
+<a href="https://instagram.com/zaid.arsh04" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="zaid.arsh04" height="30" width="30" /></a>
+</p>
+<p align="left">
+<a href="https://discord.com/users/675135158940336188" target="blank"><img align="left" src="https://cdn.iconscout.com/icon/free/png-512/discord-3-569463.png" alt="zaid.arsh04" height="35" width="35" /></a>
 </p>
 

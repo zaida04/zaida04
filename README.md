@@ -27,7 +27,7 @@
 <img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaida04&theme=dark"></img>
 </p>
 
-<h3>My Recent Activity: </h3>
+<h3 align="middle">My Recent Activity: </h3>
 <!--START_SECTION:activity-->
 
 <br><br>

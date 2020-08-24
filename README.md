@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [zaid-arshad.tech](https://zaid-arshad.tech)
 
-- 📫 How to reach me **me@zaid-arshad.tech or on Discord: ociN#3727**
+- 📫 You can reach me at: **me@zaid-arshad.tech** or on Discord: **ociN#3727**
 
 <br>
 
@@ -26,6 +26,9 @@
 <p align="middle">
 <img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaida04&theme=dark"></img>
 </p>
+
+<h3>My Recent Activity: </h3>
+<!--START_SECTION:activity-->
 
 <br><br>
 <h3 align="middle">Contact Me: </h3>

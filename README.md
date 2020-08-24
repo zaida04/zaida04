@@ -20,12 +20,14 @@
 
 <h3 align="middle">Data About Me: </h3>
 
-<img align="left" alt="Zaid's Github Stats" src="https://github-readme-stats.vercel.app/api?username=zaida04&count_private=true&show_icons=true&hide_border=true&theme=dark&include_all_commits=true" />
+<p align="middle">
+<img align="middle" alt="Zaid's Github Stats" src="https://github-readme-stats.vercel.app/api?username=zaida04&count_private=true&show_icons=true&hide_border=true&theme=dark&include_all_commits=true" />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaida04&theme=dark"></img>
+<img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaida04&theme=dark"></img>
+</p>
 
+<br><br>
 <h3 align="middle">Contact Me: </h3>
-
 <p align="middle">
 <a href="https://instagram.com/zaid.arsh04" target="blank"><img align="middle" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="zaid.arsh04" height="75" width="75" /></a>
 <a href="https://discord.com/users/675135158940336188" target="blank"><img align="middle" src="https://cdn.iconscout.com/icon/free/png-512/discord-3-569463.png" alt="zaid.arsh04" height="75" width="75" /></a>

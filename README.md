@@ -26,6 +26,8 @@
 ## Projects
 You can look at my pinned projects or https://zaid-arshad.tech/ for some of my projects
 
+<!--START_SECTION:activity-->
+
 ## Contact me
 Discord: ociN#3727
 Email: me@zaid-arshad.tech

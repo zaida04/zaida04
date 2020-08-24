@@ -26,8 +26,8 @@
 <p align="middle">
 <img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaida04&theme=dark"></img>
 </p>
-
-<h3 align="middle">My Recent Activity: </h3>
+<br><br>
+<h3 align="left">My Recent Activity: </h3>
 
 
 <!--START_SECTION:activity-->
@@ -39,9 +39,9 @@
 <!--END_SECTION:activity-->
 
 <br><br>
-<h3 align="middle">Contact Me: </h3>
-<p align="middle">
-<a href="https://instagram.com/zaid.arsh04" target="blank"><img align="middle" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="zaid.arsh04" height="75" width="75" /></a>
-<a href="https://discord.com/users/675135158940336188" target="blank"><img align="middle" src="https://cdn.iconscout.com/icon/free/png-512/discord-3-569463.png" alt="zaid.arsh04" height="75" width="75" /></a>
+<h3 align="left">Contact Me: </h3>
+<p align="left">
+<a href="https://instagram.com/zaid.arsh04" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="zaid.arsh04" height="75" width="75" /></a>
+<a href="https://discord.com/users/675135158940336188" target="blank"><img align="left" src="https://cdn.iconscout.com/icon/free/png-512/discord-3-569463.png" alt="zaid.arsh04" height="75" width="75" /></a>
 </p>
 

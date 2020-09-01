@@ -5,7 +5,7 @@
 <p align="center">🔭 I’m currently working on <a href="https://alpha.avy.moe/">Avy.moe</a> </p>
 <p align="center">🌱 I’m currently learning ➕ <b>C++</b> and 🦀 <b>Rust</b></p>
 <p align="center">👨‍💻 All of my projects are available at <a href="https://zaid-arshad.tech" alt="my-website"><b>zaid-arshad.tech</b></a></p>
-<p align="center">📫 You can reach me at: <a href="mailto:me@zaid-arshad.tech"><b>me@zaid-arshad.tech</b></a> or on Discord: <a href="https://discord.com/users/500765481788112916"><b>ociN#3727</b></a> </p>
+<p align="center">📫 You can reach me at: <a href="mailto:me@zaid-arshad.tech"><b>me@zaid-arshad.tech</b></a></p>
 <br>
 
 <h3 align="center">Current Tools and Languages:</h3>

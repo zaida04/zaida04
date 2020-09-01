@@ -31,11 +31,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com//NotSugden/OrcusJS/pull/1) in [NotSugden/OrcusJS](https://github.com//NotSugden/OrcusJS)
-2. ❗️ Closed issue [#1](https://github.com//zaida04/CalorieCounter/issues/1) in [zaida04/CalorieCounter](https://github.com//zaida04/CalorieCounter)
-3. 🗣 Commented on [#13](https://github.com//Paultje52/BananenBase/issues/13) in [Paultje52/BananenBase](https://github.com//Paultje52/BananenBase)
-4. 💪 Opened PR [#13](https://github.com//Paultje52/BananenBase/pull/13) in [Paultje52/BananenBase](https://github.com//Paultje52/BananenBase)
-5. ❌ Closed PR [#12](https://github.com//Paultje52/BananenBase/pull/12) in [Paultje52/BananenBase](https://github.com//Paultje52/BananenBase)
+1. 🗣 Commented on [#2](https://github.com//NotSugden/OrcusJS/issues/2) in [NotSugden/OrcusJS](https://github.com//NotSugden/OrcusJS)
+2. 🗣 Commented on [#2](https://github.com//NotSugden/OrcusJS/issues/2) in [NotSugden/OrcusJS](https://github.com//NotSugden/OrcusJS)
+3. 💪 Opened PR [#2](https://github.com//NotSugden/OrcusJS/pull/2) in [NotSugden/OrcusJS](https://github.com//NotSugden/OrcusJS)
+4. 💪 Opened PR [#1](https://github.com//NotSugden/OrcusJS/pull/1) in [NotSugden/OrcusJS](https://github.com//NotSugden/OrcusJS)
+5. ❗️ Closed issue [#1](https://github.com//zaida04/CalorieCounter/issues/1) in [zaida04/CalorieCounter](https://github.com//zaida04/CalorieCounter)
 <!--END_SECTION:activity-->
 
 <br><br>

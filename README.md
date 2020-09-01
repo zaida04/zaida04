@@ -17,8 +17,6 @@
 <p align="center"><b>MongoDB</b></p>
 <p align="center"><b>ExpressJS</b></p>
 <br>
-
-<h3 align="center">Data About Me: </h3>
 <table align="center">
 <tr>
   		<td><img align="center" alt="Zaid's Github Stats" src="https://github-readme-stats.vercel.app/api?username=zaida04&count_private=true&show_icons=true&hide_border=true&theme=dark&include_all_commits=true" /></td>

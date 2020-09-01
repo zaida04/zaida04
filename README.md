@@ -3,45 +3,32 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zaida04" alt="zaida04" /> </p>
 
-- 🔭 I’m currently working on [Avy.moe](https://alpha.avy.moe/)
+* <p align="center">🔭 I’m currently working on <a href="https://alpha.avy.moe/">Avy.moe</a> </p>
 
-- 🌱 I’m currently learning **➕ C++ and 🦀 Rust**
+* <p align="center">🌱 I’m currently learning ➕ <b>C++</b> and 🦀 <b>Rust</b></p>
 
-- 👨‍💻 All of my projects are available at [zaid-arshad.tech](https://zaid-arshad.tech)
+* <p align="center">👨‍💻 All of my projects are available at <a href="https://zaid-arshad.tech" alt="my-website"><b>zaid-arshad.tech</b></a></p>
 
-- 📫 You can reach me at: **me@zaid-arshad.tech** or on Discord: **ociN#3727**
+* <p align="center">📫 You can reach me at: <a href="mailto:me@zaid-arshad.tech"><b>me@zaid-arshad.tech</b></a> or on Discord: <a href="https://discord.com/users/500765481788112916"><b>ociN#3727</b></a> </p>
 
 <br>
 
 <h3 align="middle">Current Tools and Languages:</h3>
 <br>
-<p align="middle"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/><img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/><img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/><img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/><img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></p>
+
+<p align="center"><img height="18" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> <b>Javascript</b></p>
+<p align="center"><img height="18" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"> <b>Typescript</b></p>
+<p align="center"><img height="18" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"><b>Node.js</b></p>
+<p align="center"><img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" height="18"/><b>HTML</b></p>
+<p align="center"><img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" height="18"/><b>MongoDB</b></p>
+<p align="center"><img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" height="18"/><b>ExpressJS</b></p>
 <br>
 
 <h3 align="middle">Data About Me: </h3>
 
-<p align="middle">
-<img align="middle" alt="Zaid's Github Stats" src="https://github-readme-stats.vercel.app/api?username=zaida04&count_private=true&show_icons=true&hide_border=true&theme=dark&include_all_commits=true" />
-</p>
-<p align="middle">
-<img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaida04&theme=dark"></img>
-</p>
-<br><br>
-<h3 align="left">My Recent Activity: </h3>
-
-
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com//NotSugden/OrcusJS/issues/2) in [NotSugden/OrcusJS](https://github.com//NotSugden/OrcusJS)
-2. 🗣 Commented on [#2](https://github.com//NotSugden/OrcusJS/issues/2) in [NotSugden/OrcusJS](https://github.com//NotSugden/OrcusJS)
-3. 💪 Opened PR [#2](https://github.com//NotSugden/OrcusJS/pull/2) in [NotSugden/OrcusJS](https://github.com//NotSugden/OrcusJS)
-4. 💪 Opened PR [#1](https://github.com//NotSugden/OrcusJS/pull/1) in [NotSugden/OrcusJS](https://github.com//NotSugden/OrcusJS)
-5. ❗️ Closed issue [#1](https://github.com//zaida04/CalorieCounter/issues/1) in [zaida04/CalorieCounter](https://github.com//zaida04/CalorieCounter)
-<!--END_SECTION:activity-->
-
-<br><br>
-<h3 align="left">Contact Me: </h3>
-<p align="left">
-<a href="https://instagram.com/zaid.arsh04" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="zaid.arsh04" height="75" width="75" /></a>
-<a href="https://discord.com/users/675135158940336188" target="blank"><img align="left" src="https://cdn.iconscout.com/icon/free/png-512/discord-3-569463.png" alt="zaid.arsh04" height="75" width="75" /></a>
-</p>
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" alt="Zaid's Github Stats" src="https://github-readme-stats.vercel.app/api?username=zaida04&count_private=true&show_icons=true&hide_border=true&theme=dark&include_all_commits=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" alt="Zaid's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaida04&theme=dark&hide=html,css" />
+</a>

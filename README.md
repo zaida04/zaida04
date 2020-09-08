@@ -2,7 +2,7 @@
 <h3 align="center">Backend Developer and Student</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zaida04" alt="zaida04" /> </p>
-<p align="center">🔭 I’m currently working on <a href="https://alpha.avy.moe/">Avy.moe</a> </p>
+<p align="center">🔭 I’m currently working on <a href="https://avy.moe/">Avy.moe</a> </p>
 <p align="center">🌱 I’m currently learning ➕ <b>C++</b> and 🦀 <b>Rust</b></p>
 <p align="center">👨‍💻 All of my projects are available at <a href="https://zaid-arshad.tech" alt="my-website"><b>zaid-arshad.tech</b></a></p>
 <p align="center">📫 You can reach me at: <a href="mailto:me@zaid-arshad.tech"><b>me@zaid-arshad.tech</b></a></p>

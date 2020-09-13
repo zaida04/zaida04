@@ -11,12 +11,12 @@
 <hr>
 <h3 align="center">Current Tools and Languages:</h3>
 <br>
-<p align="center">➼<img height="18" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> <b>Javascript</b></p>
-<p align="center">➼<img height="18" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"> <b>Typescript</b></p>
-<p align="center">➼<img height="18" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"><b>Node.js</b></p>
-<p align="center">➼<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" height="18"/><b>HTML</b></p>
-<p align="center">➼<b>MongoDB</b></p>
-<p align="center">➼<b>ExpressJS</b></p>
+<p align="center">➼ <img height="18" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> <b>Javascript</b></p>
+<p align="center">➼ <img height="18" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"> <b>Typescript</b></p>
+<p align="center">➼ <img height="18" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"><b>Node.js</b></p>
+<p align="center">➼ <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" height="18"/><b>HTML</b></p>
+<p align="center">➼ <b>MongoDB</b></p>
+<p align="center">➼ <b>ExpressJS</b></p>
 <br>
 <table align="center">
 <tr>

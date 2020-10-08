@@ -30,8 +30,5 @@
 ‍
 ‍
 
-
-  
-     
-> ### Be sure to check my organizations! I have a couple repos that I put soley in organizations.
+> `Be sure to check out some of my Organizations!`
 			

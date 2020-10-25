@@ -2,32 +2,24 @@
 <h4 align="center">Known as "Nico"</h5>
 <h3 align="center">Backend Developer and Student</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=zaida04" alt="zaida04" /> </p>
-<p align="center">🌱 I’m currently learning ➕ <b>C++</b> and 🦀 <b>Rust</b></p>
-<p align="center">📫 You can reach me at: <a href="mailto:me@zaid-arshad.tech"><b>me@zaid-arshad.tech</b></a></p>
-<br>
-<hr>
-<h3 align="center">Current Tools and Languages:</h3>
-<br>
-<p align="center">➼ <img height="18" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> <b>Javascript</b></p>
-<p align="center">➼ <img height="18" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"> <b>Typescript</b></p>
-<p align="center">➼ <img height="18" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"><b>Node.js</b></p>
-<p align="center">➼ <b>MongoDB</b></p>
-<p align="center">➼ <b>ExpressJS</b></p>
-<br>
-<table align="center">
-<tr>
-  		<td><img align="center" alt="Zaid's Github Stats" src="https://github-readme-stats.vercel.app/api?username=zaida04&count_private=true&show_icons=true&hide_border=true&theme=dark&include_all_commits=true" /></td>
-   		<td><img align="center" alt="Zaid's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaida04&theme=dark&hide=html,css" /></td>
- 	</tr>
-</table>
-​
-​
-​
-​
-​
-‍
-‍
+I'm a High Schooler obsessed with using [`Node.js`] to write [`TypeScript`] and [`JavaScript`] and making cool projects. Some of my most notible ones being [`Yoki`] and [`VoiceChat Moderator`], which are both Discord Bots created with [`Discord.js`], which I have contributed to. I also enjoy making API wrappers like [`Quizizz.js`] and [`Guilded-js`]. In addition to the languages I know, I am very interested in learning [`Rust`] and [`C++`].
 
+<table align="center">
+	<tr>
+			<td><img align="center" alt="Zaid's Github Stats" src="https://github-readme-stats.vercel.app/api?username=zaida04&count_private=true&show_icons=true&hide_border=true&theme=blue-green&include_all_commits=true" /></td>
+			<td><img align="center" alt="Zaid's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaida04&theme=blue-green&hide=html,css" /></td>
+		</tr>
+</table>  
+  
 > `Be sure to check out some of my Organizations!`
 			
+[`Yoki`]: https://github.com/zaida04/yoki
+[`VoiceChat Moderator`]: https://github.com/zaida04/voicechat-moderator
+[`Quizizz.js`]: https://github.com/zaida04/Quizizz.js
+[`Guilded-js`]: https://github.com/zaida04/guildedjs
+[`Node.js`]: https://nodejs.org/
+[`TypeScript`]: https://www.typescriptlang.org/
+[`JavaScript`]: https://www.javascript.com/`
+[`Discord.js`]: https://github.com/discordjs/discord.js
+[`Rust`]: https://www.rust-lang.org/
+[`C++`]: https://www.cplusplus.com/

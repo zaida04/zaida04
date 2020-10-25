@@ -10,9 +10,11 @@ I'm a High Schooler obsessed with using [`Node.js`] to write [`TypeScript`] and 
 			<td><img align="center" alt="Zaid's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaida04&theme=blue-green&hide=html,css" /></td>
 		</tr>
 </table>  
+
+> Contact me through [`Discord`] or [`Email`]  
   
-> `Be sure to check out some of my Organizations!`
-			
+> `Be sure to check out some of my organizations!`
+
 [`Yoki`]: https://github.com/zaida04/yoki
 [`VoiceChat Moderator`]: https://github.com/zaida04/voicechat-moderator
 [`Quizizz.js`]: https://github.com/zaida04/Quizizz.js
@@ -23,3 +25,6 @@ I'm a High Schooler obsessed with using [`Node.js`] to write [`TypeScript`] and 
 [`Discord.js`]: https://github.com/discordjs/discord.js
 [`Rust`]: https://www.rust-lang.org/
 [`C++`]: https://www.cplusplus.com/
+
+[`Discord`]: https://discord.com/users/500765481788112916
+[`Email`]: mailto:me@zaid-arshad.tech

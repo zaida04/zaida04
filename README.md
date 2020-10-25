@@ -3,7 +3,6 @@
 <h3 align="center">Backend Developer and Student</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zaida04" alt="zaida04" /> </p>
-<p align="center">🔭 I’m currently working on <b>school</b> </p>
 <p align="center">🌱 I’m currently learning ➕ <b>C++</b> and 🦀 <b>Rust</b></p>
 <p align="center">📫 You can reach me at: <a href="mailto:me@zaid-arshad.tech"><b>me@zaid-arshad.tech</b></a></p>
 <br>

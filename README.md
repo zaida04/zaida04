@@ -2,7 +2,7 @@
 <h4 align="center">Known as "Nico"</h5>
 <h3 align="center">Backend Developer and Student</h3>
 
-I'm a High Schooler obsessed with using [`Node.js`] to write [`TypeScript`] and [`JavaScript`] and making cool projects. Some of my most notible ones being [`Yoki`] and [`VoiceChat Moderator`], which are both Discord Bots created with [`Discord.js`], which I have contributed to. I also enjoy making API wrappers like [`Quizizz.js`] and [`Guilded-js`]. In addition to the languages I know, I am very interested in learning [`Rust`] and [`C++`].
+I'm a High Schooler obsessed with using [`Node.js`] to write [`TypeScript`] and [`JavaScript`] and making cool projects. Some of my most notible ones being [`Yoki`] and [`VoiceChat Moderator`], which are both Discord Bots created with [`Discord.js`], which I have contributed to. I also enjoy making API wrappers like [`Quizizz.js`] and [`Guilded-js`]. In addition to the languages I know, I am very interested in learning [`Rust 🦀`] and [`C++`].
 
 <table align="center">
 	<tr>
@@ -23,7 +23,7 @@ I'm a High Schooler obsessed with using [`Node.js`] to write [`TypeScript`] and 
 [`TypeScript`]: https://www.typescriptlang.org/
 [`JavaScript`]: https://www.javascript.com/`
 [`Discord.js`]: https://github.com/discordjs/discord.js
-[`Rust`]: https://www.rust-lang.org/
+[`Rust 🦀`]: https://www.rust-lang.org/
 [`C++`]: https://www.cplusplus.com/
 
 [`Discord (ociN#3727)`]: https://discord.com/users/500765481788112916

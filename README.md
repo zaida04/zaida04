@@ -11,7 +11,7 @@ I'm a High Schooler obsessed with using [`Node.js`] to write [`TypeScript`] and 
 		</tr>
 </table>  
 
-> Contact me through [`Discord`] or [`Email`]  
+> Contact me through [`Discord (ociN#3727)`] or [`Email`]  
   
 > `Be sure to check out some of my organizations!`
 
@@ -26,5 +26,5 @@ I'm a High Schooler obsessed with using [`Node.js`] to write [`TypeScript`] and 
 [`Rust`]: https://www.rust-lang.org/
 [`C++`]: https://www.cplusplus.com/
 
-[`Discord`]: https://discord.com/users/500765481788112916
+[`Discord (ociN#3727)`]: https://discord.com/users/500765481788112916
 [`Email`]: mailto:me@zaid-arshad.tech

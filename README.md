@@ -11,7 +11,7 @@ I'm a High Schooler obsessed with using [`Node.js`] to make cool projects in [`T
 		</tr>
 </table>  
 
-> Contact me through [`Discord (ociN#3727)`] or [`Email`]  
+> Contact me through [`Discord (ociN#3727)`] 
   
 > `Be sure to check out some of my organizations!`
 
@@ -28,4 +28,3 @@ I'm a High Schooler obsessed with using [`Node.js`] to make cool projects in [`T
 [`C++`]: https://www.cplusplus.com/
 
 [`Discord (ociN#3727)`]: https://discord.com/users/500765481788112916
-[`Email`]: mailto:me@zaid-arshad.tech

@@ -2,7 +2,7 @@
 <h4 align="center">Known as "Nico"</h5>
 <h3 align="center">Backend Developer and Student</h3>
 
-I'm a High Schooler obsessed with using [`Node.js`] to make cool projects in [`TypeScript`] and [`JavaScript`]. Some of my most notable projects are [`Yoki`] and [`VoiceChat Moderator`] which are both Discord Bots. I also enjoy making API wrappers like [`Quizizz.js`] and [`Guilded-js`]. I have contributed to [`Discord.js`], a Node.js wrapper for the Discord API; [`discord-api-types`] a collection of typings for the Discord API; and to several other projects. The languages that I am proficient in are TypeScript/JavaScript and Java. I am currently learning [`Rust 🦀`] and [`C`]. I intend to learn [`Go`] and [`Python`] in the near future.
+I'm a High Schooler obsessed with using [`Node.js`] to make cool projects in [`TypeScript`] and [`JavaScript`]. Some of my most notable projects are [`Yoki`] and [`VoiceChat Moderator`] which are both Discord Bots. I also enjoy making API wrappers like [`Quizizz.js`] and [`Guilded-js`]. I have contributed to [`Discord.js`], a Node.js wrapper for the Discord API; [`discord-api-types`] a collection of typings for the Discord API; and to several other projects. The languages that I am proficient in are [`TypeScript`]/[`JavaScript`] and [`Java`]. I am currently learning [`Rust 🦀`] and [`C`]. I intend to learn [`Go`] and [`Python`] in the near future.
 
 <table align="center">
 	<tr>
@@ -28,5 +28,6 @@ I'm a High Schooler obsessed with using [`Node.js`] to make cool projects in [`T
 [`C`]: https://en.wikipedia.org/wiki/C_(programming_language)
 [`Go`]: https://golang.org/
 [`Python`]: https://www.python.org/
+[`Java`]: https://www.java.com/en/
 
 [`Discord (ociN#3727)`]: https://discord.com/users/500765481788112916

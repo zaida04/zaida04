@@ -2,7 +2,7 @@
 <h4 align="center">Known as "Nico"</h5>
 <h3 align="center">Backend Developer and Student</h3>
 
-I'm a High Schooler obsessed with using [`Node.js`] to make cool projects in [`TypeScript`] and [`JavaScript`]. One of my most notable projects is [`Yoki`] which is a Discord Bot. I also enjoy making API wrappers like [`Guilded-js`]. I have contributed to [`Discord.js`], a Node.js wrapper for the Discord API; [`discord-api-types`] a collection of typings for the Discord API; and to several other projects. 
+I'm a High Schooler obsessed with using [`Node.js`] to make cool projects in `TypeScript` and `JavaScript`. One of my most notable projects is [`Yoki`] which is a Discord Bot. I also enjoy making API wrappers like [`Guilded-js`]. I have contributed to [`Discord.js`], a Node.js wrapper for the Discord API; [`discord-api-types`] a collection of typings for the Discord API; and to several other projects. 
 
 The languages that I am proficient in are [`TypeScript`]/[`JavaScript`] and [`Java`]. I am currently learning [`Rust 🦀`] and [`C`]. I intend to learn [`Go`] and [`Python`] in the near future.
 
@@ -20,8 +20,6 @@ The languages that I am proficient in are [`TypeScript`]/[`JavaScript`] and [`Ja
 [`Yoki`]: https://github.com/zaida04/yoki
 [`Guilded-js`]: https://github.com/zaida04/guildedjs
 [`Node.js`]: https://nodejs.org/
-[`TypeScript`]: https://www.typescriptlang.org/
-[`JavaScript`]: https://www.javascript.com/`
 [`Discord.js`]: https://github.com/discordjs/discord.js
 [`discord-api-types`]: https://github.com/zaida04/discord-api-types
 [`Rust 🦀`]: https://www.rust-lang.org/

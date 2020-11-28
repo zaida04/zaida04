@@ -11,10 +11,6 @@ The languages that I am proficient in are `TypeScript`/`JavaScript` and `Java`. 
 			<td><img align="center" alt="Zaid's Github Stats" src="https://github-readme-stats.vercel.app/api?username=zaida04&count_private=true&show_icons=true&hide_border=true&theme=blue-green&include_all_commits=true" /></td>
 			<td><img align="center" alt="Zaid's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaida04&theme=blue-green&hide=html,css" /></td>
 		</tr>
-	<tr>
-		<td><a target="_blank" href="https://discord.gg/jf66UUN" title="Join our Discord!">
-<img draggable="false" src="https://discordapp.com/api/guilds/732714723744940032/widget.png?style=banner2" height="76px" draggable="false" alt="Join my Discord!"></td>
-	</tr>
 </table>  
 
 > Contact me through [`Discord (ociN#3727)`] 

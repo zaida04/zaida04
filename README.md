@@ -2,10 +2,9 @@
 <h4 align="center">Known as "Nico"</h5>
 <h3 align="center">Backend Developer and Student</h3>
 
-I'm a High Schooler obsessed with using [`Node.js`] to make cool projects in `TypeScript` and `JavaScript`. One of my most notable projects is [`Yoki`] which is a Discord Bot focused on providing a suite of tools to server moderators. I also enjoy making API wrappers like [`Guilded-js`]. I have contributed to [`Discord.js`], a Node.js wrapper for the Discord API; [`discord-api-types`] a collection of typings for the Discord API; and to several other projects. 
+I'm a High Schooler obsessed with using [`Node.js`] to make cool projects in `TypeScript` and `JavaScript`. One of my most notable projects is [`Yoki`] which is a Discord Bot focused on providing a suite of tools to server moderators. I also enjoy creating API wrappers like [`Guilded-js`]. I have contributed to several projects, such as [`Discord.js`], a JS wrapper for the discord API. 
 
-The languages that I am proficient in are `TypeScript`/`JavaScript` and `Java`. I am currently learning `Rust 🦀` and `C`. I intend to learn `Go` and `Python` in the near future.
-
+The languages that I am proficient in are `TypeScript`/`JavaScript`, `Java`, and `Python`. I am currently learning `Rust 🦀` and `C`.
 <table align="center">
 	<tr>
 			<td><img align="center" alt="Zaid's Github Stats" src="https://github-readme-stats.vercel.app/api?username=zaida04&count_private=true&show_icons=true&hide_border=true&theme=blue-green&include_all_commits=true" /></td>

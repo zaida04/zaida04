@@ -13,8 +13,6 @@ The languages that I am proficient in are `TypeScript`/`JavaScript`, `Java`, and
 </table>  
 
 > Contact me through [`Discord (ociN#3727)`] 
-   	   
-> `Be sure to check out some of my organizations!`
 
 [`Yoki`]: https://github.com/zaida04/yoki
 [`Guilded-js`]: https://github.com/zaida04/guildedjs

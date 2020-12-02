@@ -15,7 +15,7 @@ The languages that I am proficient in are `TypeScript`/`JavaScript`, `Java`, and
 > Contact me through [`Discord (ociN#3727)`] 
 
 [`Yoki`]: https://github.com/zaida04/yoki
-[`Guilded-js`]: https://github.com/zaida04/guildedjs
+[`Guilded-js`]: https://github.com/guildedjs/guildedjs
 [`Node.js`]: https://nodejs.org/
 [`Discord.js`]: https://github.com/discordjs/discord.js
 [`discord-api-types`]: https://github.com/zaida04/discord-api-types

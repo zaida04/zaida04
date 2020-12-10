@@ -2,7 +2,7 @@
 <h4 align="center">Known as "Nico"</h5>
 <h3 align="center">Backend Developer and Student</h3>
 
-I'm a High Schooler obsessed with using [`Node.js`] to make cool projects in **TypeScript** and **JavaScript**. My most notable projects are [`Yoki`], which is a Discord Bot focused on providing a suite of tools to server moderators, and [`Guilded-js`], a monorepo that includes: an API wrapper for the guilded.gg API, API typings for custom proxies, and other tools. I have contributed to several projects, such as [`Discord.js`], a JS wrapper for the discord API and [`dAPI-types`], API Typings written in TS for the discord API.
+I'm a High Schooler obsessed with using [`Node.js`] to make cool projects in **TypeScript** and **JavaScript**. My most notable projects are [`Yoki`], which is a Discord Bot focused on providing a suite of tools to server moderators, and [`Guilded.js`], a monorepo that includes: an API wrapper for the guilded.gg API, API typings for custom proxies, and other tools. I have contributed to several projects, such as [`Discord.js`], a JS wrapper for the discord API and [`dAPI-types`], API Typings written in TS for the discord API.
 
 The languages that I am proficient in addition to the above are **Java** and **Python**. I am currently learning **Rust 🦀** and **C/C++**.
 <table align="center">
@@ -15,7 +15,7 @@ The languages that I am proficient in addition to the above are **Java** and **P
 > Contact me through [`Discord (ociN#3727)`] 
 
 [`Yoki`]: https://github.com/zaida04/yoki
-[`Guilded-js`]: https://github.com/guildedjs/guildedjs
+[`Guilded.js`]: https://github.com/guildedjs/guildedjs
 [`Node.js`]: https://nodejs.org/
 [`Discord.js`]: https://github.com/discordjs/discord.js
 [`dAPI-types`]: https://github.com/zaida04/discord-api-types

@@ -18,6 +18,6 @@ The languages that I am proficient in addition to the above are **Java** and **P
 [`Guilded-js`]: https://github.com/guildedjs/guildedjs
 [`Node.js`]: https://nodejs.org/
 [`Discord.js`]: https://github.com/discordjs/discord.js
-[`dAPI`]: https://github.com/zaida04/discord-api-types
+[`dAPI-types`]: https://github.com/zaida04/discord-api-types
 
 [`Discord (ociN#3727)`]: https://discord.com/users/500765481788112916

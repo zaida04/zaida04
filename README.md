@@ -7,8 +7,7 @@ I'm a High Schooler obsessed with using [`Node.js`] to make cool projects in **T
 My most notable projects:
 * [`Yoki`](https://github.com/zaida04/Yoki), a modularized discord bot made with Discord Akairo, KnexJS, and TypeScript
 * [`Guilded.js`](https://github.com/guildedjs/guilded.js), a library and other tools for the Guilded API.
-* [`Pancake`](https://github.com/zaida04/pancake), a SMS library used to send VTexts
-* [`French-Fry`](https://github.com/zaida04/french-fry), Arbitrary code execution server using Docker made with Node.js.
+* [`French-Fry`](https://github.com/zaida04/french-fry), (WIP) Arbitrary code execution server using Docker made with Node.js.
 * [`VoiceChat-Moderator`](https://github.com/zaida04/voicechat-moderator), A Discord bot that applies punishments to users who go over a certain volume threshold
 
 I have contributed to several projects, some of which are:

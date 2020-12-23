@@ -2,7 +2,7 @@
 <h4 align="center">Known as "Nico"</h5>
 <h3 align="center">Backend Developer and Student</h3>
 
-I'm a High Schooler obsessed with using [`Node.js`] to make cool projects in **TypeScript** and **JavaScript**. In addition to that I am also proficent in **Java** and **Python** and like using tools like **Docker** and **Kubernetes** for scaling my projects. I am currently learning **Rust 🦀** and **C/C++**.
+I'm a High Schooler obsessed with using [`Node.js`] to make cool projects in **TypeScript** and **JavaScript**. In addition to that I am also proficent in **Java** and **Python** and using tools like **Docker** and **Kubernetes** for scaling my projects. I am currently learning **Rust 🦀** and **C/C++**.
 
 My most notable projects:
 * [`Yoki`](https://github.com/zaida04/Yoki), a modularized discord bot made with Discord Akairo, KnexJS, and TypeScript

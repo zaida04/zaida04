@@ -18,12 +18,17 @@ I have contributed to several projects, some of which are:
 * [`Discord.js`](https://github.com/discordjs/discord.js), A JavaScript library for the Discord API. I have been a long time user of Discord.js and have made a number of contributions to the Library.
 * [`Discord-API-Types`](https://github.com/discordjs/discord-api-types), TypeScript typings for various Discord API versions.
 -->
+<!---
 <table align="center">
 	<tr>
-			<!---<td><img align="center" alt="Zaid's Github Stats" src="https://github-readme-stats.vercel.app/api?username=zaida04&count_private=true&show_icons=true&hide_border=true&theme=blue-green&include_all_commits=true" /></td>-->
-			<td><img align="center" alt="Zaid's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaida04&theme=blue-green&hide=html,css" /></td>
+			<td><img align="center" alt="Zaid's Github Stats" src="https://github-readme-stats.vercel.app/api?username=zaida04&count_private=true&show_icons=true&hide_border=true&theme=blue-green&include_all_commits=true" /></td>-->
+<div align="center">
+	<img alt="Zaid's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaida04&theme=blue-green&hide=html,css" />
+</div>
+		<!---
 		</tr>
 </table>  
+-->
 
 [`Yoki`]: https://github.com/zaida04/yoki
 [`Guilded.js`]: https://github.com/guildedjs/guildedjs

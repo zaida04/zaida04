@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zaid</h1> 
-<h4 align="center">Known as "Nico"</h5>
-<h3 align="center">Backend Developer and Student</h3>
+<h4 align="center">Known as "Nico"</h5> <p align="center"> Contact me through <a href="https://discord.com/users/500765481788112916"><code>Discord (ociN#3727)</code></a></p>
 
 <!---
 I'm a High Schooler obsessed with using [`Node.js`] to make cool projects in **TypeScript** and **JavaScript**. In addition to that I am also proficent in **Java** and **Python** and using tools like **Docker** and **Kubernetes** for scaling my projects. I am currently learning **Rust 🦀** and **C/C++**.
@@ -26,12 +25,8 @@ I have contributed to several projects, some of which are:
 		</tr>
 </table>  
 
-> Contact me through [`Discord (ociN#3727)`] 
-
 [`Yoki`]: https://github.com/zaida04/yoki
 [`Guilded.js`]: https://github.com/guildedjs/guildedjs
 [`Node.js`]: https://nodejs.org/
 [`Discord.js`]: https://github.com/discordjs/discord.js
 [`dAPI-types`]: https://github.com/zaida04/discord-api-types
-
-[`Discord (ociN#3727)`]: https://discord.com/users/500765481788112916

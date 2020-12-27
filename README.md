@@ -21,7 +21,7 @@ I have contributed to several projects, some of which are:
 -->
 <table align="center">
 	<tr>
-			<td><img align="center" alt="Zaid's Github Stats" src="https://github-readme-stats.vercel.app/api?username=zaida04&count_private=true&show_icons=true&hide_border=true&theme=blue-green&include_all_commits=true" /></td>
+			<!---<td><img align="center" alt="Zaid's Github Stats" src="https://github-readme-stats.vercel.app/api?username=zaida04&count_private=true&show_icons=true&hide_border=true&theme=blue-green&include_all_commits=true" /></td>-->
 			<td><img align="center" alt="Zaid's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaida04&theme=blue-green&hide=html,css" /></td>
 		</tr>
 </table>  

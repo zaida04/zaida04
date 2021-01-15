@@ -7,6 +7,7 @@ I'm a High Schooler obsessed with using [`Node.js`] to make cool projects in **T
 ### Projects I am involved with:
 * [`Discord.js`](https://github.com/discordjs/discord.js), A JavaScript library for the Discord API. I have been a long time user of Discord.js and have made a number of contributions to the Library.
 * [`Discord-API-Types`](https://github.com/discordjs/discord-api-types), TypeScript typings for various Discord API versions.
+* [`Guilded.js`](https://github.com/guildedjs/guilded.js), A TypeScript library for the Guilded API.
 
 <table align="center">
 	<tr>

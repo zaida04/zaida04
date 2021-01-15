@@ -4,8 +4,6 @@
 
 I'm a High Schooler obsessed with using [`Node.js`] to make cool projects in **TypeScript** and **JavaScript**. In addition to that I am also proficent in **Java** and **Python** and using tools like **Docker** for scaling my projects. I am currently learning **Rust 🦀** and **C/C++**.
 
-### You can see my showcased projects by looking at my pinned repos.
-
 ### Projects I am involved with:
 * [`Discord.js`](https://github.com/discordjs/discord.js), A JavaScript library for the Discord API. I have been a long time user of Discord.js and have made a number of contributions to the Library.
 * [`Discord-API-Types`](https://github.com/discordjs/discord-api-types), TypeScript typings for various Discord API versions.
@@ -15,6 +13,8 @@ I'm a High Schooler obsessed with using [`Node.js`] to make cool projects in **T
 			<td><img align="center" alt="Zaid's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaida04&theme=blue-green&hide=html,css" /></td>
 		</tr>
 </table>  
+
+### You can see my showcased projects by looking at my pinned repos.
 
 > Contact me through [`Discord (ociN#3727)`] 
 

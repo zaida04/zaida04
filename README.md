@@ -11,11 +11,13 @@ I'm a High Schooler obsessed with using [`Node.js`] to make cool projects in **T
 * [`Discord-API-Types`](https://github.com/discordjs/discord-api-types), TypeScript typings for various Discord API versions.
 * [`Guilded.js`](https://github.com/guildedjs/guilded.js), A TypeScript library for the Guilded API.
 
+<!--
 <table align="center">
 		<tr>
 			<td><img align="center" alt="Zaid's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaida04&theme=blue-green&hide=html,css" /></td>
 		</tr>
-</table>  
+</table>
+!-->
 
 ### You can see my showcased projects by looking at my pinned repos.
 

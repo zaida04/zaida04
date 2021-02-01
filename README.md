@@ -19,10 +19,7 @@ I'm a High Schooler obsessed with using [`Node.js`] to make cool projects in **T
 </table>
 !-->
 
-### You can see my showcased projects by looking at my pinned repos.
-
-> Contact me through [`Discord (ociN#3727)`] 
-
+#### You can see my showcased projects by looking at my pinned repos.
 [`Yoki`]: https://github.com/zaida04/yoki
 [`Guilded.js`]: https://github.com/guildedjs/guildedjs
 [`Node.js`]: https://nodejs.org/

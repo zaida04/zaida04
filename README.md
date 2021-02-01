@@ -1,16 +1,15 @@
 <h1 align="center">Hi 👋, I'm Zaid</h1> 
 <h4 align="center">Known as "Nico"</h5>
-<h3 align="center">Hobbyist and Student</h3>
+<h3 align="center">Hobbyist and Student 👨‍🎓</h3>
 
 -----
 ### Currently rockin':
-* [`TypeScript`] and [`JavaScript`] using the [`Node.js`] Runtime.
-* [`Java`]
-* [`Python`]
------
+* [`TypeScript 🧰`] and [`JavaScript 💡`] using the [`Node.js ⚙️`] Runtime.
+* [`Java ☕`]
+* [`Python 🐍`]
 ### Trying to learn:
-* [`C`]
-* [`Rust`]
+* [`C 💤`]
+* [`Rust 🦀`]
 -----
 <!--
 <table align="center">
@@ -20,11 +19,11 @@
 </table>
 !-->
 
-#### You can see my showcased projects by looking at my pinned repos.
-[`Node.js`]: https://nodejs.org/
-[`TypeScript`]: https://www.typescriptlang.org/
-[`JavaScript`]: https://www.javascript.com/
-[`Java`]: https://www.oracle.com/java/
-[`Python`]: https://www.python.org/
-[`C`]: https://llvm.org/
-[`Rust`]: https://www.rust-lang.org/
+### You can see my showcased projects by looking at my pinned repos.
+[`Node.js ⚙️`]: https://nodejs.org/
+[`TypeScript 🧰`]: https://www.typescriptlang.org/
+[`JavaScript 💡`]: https://www.javascript.com/
+[`Java ☕`]: https://www.oracle.com/java/
+[`Python 🐍`]: https://www.python.org/
+[`C 💤`]: https://llvm.org/
+[`Rust 🦀`]: https://www.rust-lang.org/

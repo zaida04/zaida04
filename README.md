@@ -2,15 +2,16 @@
 <h4 align="center">Known as "Nico"</h5>
 <h3 align="center">Hobbyist and Student</h3>
 
-I'm a High Schooler obsessed with using [`Node.js`] to make cool projects in **TypeScript** and **JavaScript**. In addition to that I am also proficent in **Java** and **Python** and using tools like **Docker** for scaling my projects. I am currently learning **Rust 🦀** and **C/C++**.
-
 -----
-
-### Projects I am involved with:
-* [`Discord.js`](https://github.com/discordjs/discord.js), A JavaScript library for the Discord API. I have been a long time user of Discord.js and have made a number of contributions to the Library.
-* [`Discord-API-Types`](https://github.com/discordjs/discord-api-types), TypeScript typings for various Discord API versions.
-* [`Guilded.js`](https://github.com/guildedjs/guilded.js), A TypeScript library for the Guilded API.
-
+### Currently rockin':
+* [`TypeScript`] and [`JavaScript`] using the [`Node.js`] Runtime.
+* [`Java`]
+* [`Python`]
+-----
+### Trying to learn:
+* [`C`]
+* [`Rust`]
+-----
 <!--
 <table align="center">
 		<tr>
@@ -20,10 +21,10 @@ I'm a High Schooler obsessed with using [`Node.js`] to make cool projects in **T
 !-->
 
 #### You can see my showcased projects by looking at my pinned repos.
-[`Yoki`]: https://github.com/zaida04/yoki
-[`Guilded.js`]: https://github.com/guildedjs/guildedjs
 [`Node.js`]: https://nodejs.org/
-[`Discord.js`]: https://github.com/discordjs/discord.js
-[`dAPI-types`]: https://github.com/zaida04/discord-api-types
-
-[`Discord (ociN#3727)`]: https://discord.com/users/500765481788112916
+[`TypeScript`]: https://www.typescriptlang.org/
+[`JavaScript`]: https://www.javascript.com/
+[`Java`]: https://www.oracle.com/java/
+[`Python`]: https://www.python.org/
+[`C`]: https://llvm.org/
+[`Rust`]: https://www.rust-lang.org/

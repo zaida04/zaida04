@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Zaid</h1> 
 <h4 align="center">Known as "Nico"</h5>
-<h3 align="center">Backend Developer and Student</h3>
+<h3 align="center">Hobbyist and Student</h3>
 
 I'm a High Schooler obsessed with using [`Node.js`] to make cool projects in **TypeScript** and **JavaScript**. In addition to that I am also proficent in **Java** and **Python** and using tools like **Docker** for scaling my projects. I am currently learning **Rust 🦀** and **C/C++**.
+
+-----
 
 ### Projects I am involved with:
 * [`Discord.js`](https://github.com/discordjs/discord.js), A JavaScript library for the Discord API. I have been a long time user of Discord.js and have made a number of contributions to the Library.
@@ -10,7 +12,7 @@ I'm a High Schooler obsessed with using [`Node.js`] to make cool projects in **T
 * [`Guilded.js`](https://github.com/guildedjs/guilded.js), A TypeScript library for the Guilded API.
 
 <table align="center">
-	<tr>
+		<tr>
 			<td><img align="center" alt="Zaid's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaida04&theme=blue-green&hide=html,css" /></td>
 		</tr>
 </table>  

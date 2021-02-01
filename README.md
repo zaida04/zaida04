@@ -10,7 +10,6 @@
 ### Trying to learn:
 * [`C 💤`]
 * [`Rust 🦀`]
------
 <!--
 <table align="center">
 		<tr>

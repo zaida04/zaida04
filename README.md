@@ -2,6 +2,8 @@
 <h4 align="center">Known as "Nico"</h5>
 <h3 align="center">Hobbyist and Student 👨‍🎓</h3>
 
+Howdy there! I've been coding since middle school and have personal interests in building Discord bots, APIs, and creating API wrappers. I take great pride in my work and am always down to learn new stuff and use new resources.
+
 -----
 ### Currently rockin':
 * [`TypeScript 🧰`] and [`JavaScript 💡`] using the [`Node.js ⚙️`] Runtime. Learned by spending years fooling around with Discord bots, APIs, and HTTP Servers

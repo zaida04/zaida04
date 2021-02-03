@@ -7,7 +7,7 @@ Howdy there, I'm Zaid but others online call me Nico! I've been coding since mid
 -----
 ### Currently rockin':
 * [`TypeScript 🧰`] and [`JavaScript 💡`] using the [`Node.js ⚙️`] Runtime. Learned by spending years fooling around with Discord bots, APIs, and HTTP Servers
-* [`Java ☕`] Learned through school courses and messing around with building Spigot server plugins & Forge mods.
+* [`Java ☕`] Learned through school courses and building Spigot server plugins & Forge mods.
 * [`Python 🐍`] Learned through personal usage and messing around with.
 ### Trying to learn:
 * [`C 💤`]

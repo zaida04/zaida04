@@ -12,6 +12,9 @@ Howdy there, I'm Zaid but others online call me Nico! I've been coding since mid
 ### Trying to learn:
 * [`C 💤`]
 * [`Rust 🦀`]
+
+![Zaid's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaida04&count_private=true&theme=highcontrast)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaida04&theme=highcontrast&langs_count=10&layout=compact&hide=css,html)
 <!--
 <table align="center">
 		<tr>

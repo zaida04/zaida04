@@ -16,7 +16,7 @@ Howdy there, I'm Zaid but others online call me Nico! I've been coding since mid
 
 <table align="center">
 		<tr>
-			<td><img alt="Zaid's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaida04&theme=highcontrast&langs_count=10&layout=compact&hide=css,html,shell" /></td>
+			<td><img alt="Zaid's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaida04&theme=highcontrast&langs_count=10&layout=compact&hide=css,html,shell,dockerfile" /></td>
 			<td><img alt="Zaid's Github Stats" src="https://github-readme-stats.vercel.app/api?username=zaida04&count_private=true&theme=highcontrast&hide=stars" /></td>
 		</tr>
 </table>

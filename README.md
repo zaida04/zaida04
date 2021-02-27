@@ -10,10 +10,13 @@ Howdy there, I'm Zaid but others online call me Nico! I've been coding since mid
 * [`Java ☕`] Learned through school courses and building Spigot server plugins & Forge mods.
 * [`Python 🐍`] Learned through personal usage and messing around with.
 * [`Docker 🐳 / docker-compose`] Used in various projects to manage deploying applications and servers
+* [`MongoDB 🍃`] Used in various projects to store data
+* [`PostgreSQL 🐘`] Used in various projects to store data
 ### Trying to learn:
 * [`C 💤`]
 * [`Rust 🦀`]
 * [`Haskell 📚`]
+* [`Kubernetes ☸️`]
 
 <table align="center">
 		<tr>
@@ -32,3 +35,6 @@ Howdy there, I'm Zaid but others online call me Nico! I've been coding since mid
 [`Rust 🦀`]: https://www.rust-lang.org/
 [`Haskell 📚`]: https://www.haskell.org/
 [`Docker 🐳 / docker-compose`]: https://www.docker.com/
+[`MongoDB 🍃`]: https://www.mongodb.com/
+[`PostgreSQL 🐘`]: https://www.postgresql.org/
+[`Kubernetes ☸️`]: https://kubernetes.io/

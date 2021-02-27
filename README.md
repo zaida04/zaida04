@@ -5,10 +5,11 @@
 Howdy there, I'm Zaid but others online call me Nico! I've been coding since middle school and have great personal interest in building Discord bots, APIs, and creating API wrappers. I take great pride in my work and am always down to learn new stuff and use new resources.
 
 -----
-### Currently rockin':
+### Currently rockin' these langs and tools:
 * [`TypeScript 🧰`] and [`JavaScript 💡`] using the [`Node.js ⚙️`] Runtime. Learned by spending years fooling around with Discord bots, APIs, and HTTP Servers
 * [`Java ☕`] Learned through school courses and building Spigot server plugins & Forge mods.
 * [`Python 🐍`] Learned through personal usage and messing around with.
+* [`Docker 🐳 / docker-compose`] Used in various projects to manage deploying applications and servers
 ### Trying to learn:
 * [`C 💤`]
 * [`Rust 🦀`]
@@ -30,3 +31,4 @@ Howdy there, I'm Zaid but others online call me Nico! I've been coding since mid
 [`C 💤`]: https://llvm.org/
 [`Rust 🦀`]: https://www.rust-lang.org/
 [`Haskell 📚`]: https://www.haskell.org/
+[`Docker 🐳 / docker-compose`]: https://www.docker.com/

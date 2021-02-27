@@ -15,7 +15,7 @@ Howdy there, I'm Zaid but others online call me Nico! I've been coding since mid
 ### Trying to learn:
 * [`C 💤`]
 * [`Rust 🦀`]
-* [`Haskell 📚`]
+* [`Haskell 🧮`]
 * [`Kubernetes ☸️`]
 
 <table align="center">
@@ -33,7 +33,7 @@ Howdy there, I'm Zaid but others online call me Nico! I've been coding since mid
 [`Python 🐍`]: https://www.python.org/
 [`C 💤`]: https://llvm.org/
 [`Rust 🦀`]: https://www.rust-lang.org/
-[`Haskell 📚`]: https://www.haskell.org/
+[`Haskell 🧮`]: https://www.haskell.org/
 [`Docker 🐳 / docker-compose`]: https://www.docker.com/
 [`MongoDB 🍃`]: https://www.mongodb.com/
 [`PostgreSQL 🐘`]: https://www.postgresql.org/

@@ -14,15 +14,12 @@ Howdy there, I'm Zaid but others online call me Nico! I've been coding since mid
 * [`Rust 🦀`]
 * [`Haskell 📚`]
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaida04&theme=highcontrast&langs_count=10&layout=compact&hide=css,html,shell)
-![Zaid's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaida04&count_private=true&theme=highcontrast&hide=stars)
-<!--
 <table align="center">
 		<tr>
-			<td><img align="center" alt="Zaid's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaida04&theme=blue-green&hide=html,css" /></td>
+			<td><img alt="Zaid's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaida04&theme=highcontrast&langs_count=10&layout=compact&hide=css,html,shell" /></td>
+			<td><img alt="Zaid's Github Stats" src="https://github-readme-stats.vercel.app/api?username=zaida04&count_private=true&theme=highcontrast&hide=stars" /></td>
 		</tr>
 </table>
-!-->
 
 ### You can see my showcased projects by looking at my pinned repos.
 [`Node.js ⚙️`]: https://nodejs.org/

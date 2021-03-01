@@ -9,7 +9,7 @@
 * [`TypeScript 🧰`] and [`JavaScript 💡`] using the [`Node.js ⚙️`] Runtime. Learned by spending years fooling around with Discord bots, APIs, and HTTP Servers
 * [`Java ☕`] Learned through school courses and building Spigot server plugins & Forge mods.
 * [`Python 🐍`] Learned through personal usage and messing around with.
-* [`Docker 🐳 / docker-compose`] Used in various projects to manage deploying applications and servers
+* [`Docker 🐳 / docker-compose`] Used in various projects to manage deploying applications and services
 * [`MongoDB 🍃`] Used in various projects to store data
 * [`PostgreSQL 🐘`] Used in various projects to store data
 ### Trying to learn:

@@ -2,7 +2,7 @@
 <h4 align="center">Known as "Nico"</h5>
 <h3 align="center">Hobbyist and Student 👨‍🎓</h3>
 
-<samp> Howdy there, I'm Zaid but others online call me Nico! I've been coding since middle school and have great personal interest in building Discord bots, APIs, and creating API wrappers. I take great pride in my work and am always down to learn new stuff and use new resources. </samp>
+<samp> Howdy there, I'm Zaid but others online call me Nico! I've been coding since middle school and have great personal interest in building Discord bots, services, and making packages. I take great pride in my work and am always down to learn new stuff and use new resources. </samp>
 
 -----
 ### Currently rockin' these langs and tools:

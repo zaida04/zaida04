@@ -18,6 +18,13 @@
 * [`Haskell 🧮`]
 * [`Kubernetes ☸️`]
 
+### Open Source projects I'm involved with:
+* [`Discord.js`](https://github.com/discordjs/discord.js)
+* [`Cordis`](https://github.com/cordis-lib/cordis)
+* [`Guilded.js`](https://github.com/guildedjs/guilded.js)
+* [`Dogehouse`](https://github.com/benawad)
+* ...and more
+
 <table align="center">
 		<tr>
 			<td><img alt="Zaid's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaida04&&bg_color=000000&title_color=fff&text_color=fff&langs_count=10&layout=compact&hide=css,html,shell,dockerfile" /></td>

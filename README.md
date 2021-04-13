@@ -22,8 +22,9 @@
 		<a href="https://www.haskell.org/"><code>Haskell 🧮</code></a>
 		<a href="https://kubernetes.io/"><code>Kubernetes ☸️</code></a>
 	</samp>
+	<br>
+	<br>
 	<details>
-		<br>
 		<summary>════ Details ════</summary>
 		<table align="center">
 				<tr>

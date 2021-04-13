@@ -1,5 +1,5 @@
 <h1 align="center"><samp>Hi 👋, I'm Zaid</samp></h1> 
-<h5 align="center"><samp>Known as "Nico"</samp></h5>
+<h4 align="center"><samp>Known as "Nico"</samp></h5>
 <h4 align="center"><samp>Open Source Intern @ <a href="https://fiveable.me/"><code>Fiveable</code></a> and Student 👨‍🎓</samp></h3>
 
 <div align="center">

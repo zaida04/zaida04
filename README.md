@@ -1,11 +1,10 @@
 <h1 align="center"><samp>Hi 👋, I'm Zaid</samp></h1> 
 <h4 align="center"><samp>Known as "Nico"</samp></h5>
-<h3 align="center"><samp>Hobbyist and Student 👨‍🎓</samp></h3>
+<h3 align="center"><samp>Open Source Intern @ <a href="https://fiveable.me/"><code>Fiveable</code></a> and Student 👨‍🎓</samp></h3>
 
 <div align="center">
 	<samp> 
 		<h3> 「 Tools and Languages 」</h3>
-		<br/>
 		<a href="https://www.typescriptlang.org/"><code>TypeScript 🧰</code></a>
 		<a href="https://www.javascript.com/"><code>JavaScript 💡</code></a>
 		<a href="https://nodejs.org/"><code>Node.js ⚙️</code></a>
@@ -18,7 +17,6 @@
 	<br>
 	<samp> 
 		<h3> 「 Interested in 」</h3>
-		<br/>
 		<a href="https://llvm.org/"><code>C 💤</code></a>
 		<a href="https://www.rust-lang.org/"><code>Rust 🦀</code></a>
 		<a href="https://www.haskell.org/"><code>Haskell 🧮Haskell 🧮</code></a>

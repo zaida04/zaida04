@@ -24,7 +24,6 @@
 	</samp>
 	<br>
 	<br>
-	<br>
 	<details>
 		<summary><b>════ Details ════</b></summary>
 		<br>

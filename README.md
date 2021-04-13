@@ -1,6 +1,6 @@
 <h1 align="center"><samp>Hi 👋, I'm Zaid</samp></h1> 
-<h4 align="center"><samp>Known as "Nico"</samp></h5>
-<h3 align="center"><samp>Open Source Intern @ <a href="https://fiveable.me/"><code>Fiveable</code></a> and Student 👨‍🎓</samp></h3>
+<h5 align="center"><samp>Known as "Nico"</samp></h5>
+<h4 align="center"><samp>Open Source Intern @ <a href="https://fiveable.me/"><code>Fiveable</code></a> and Student 👨‍🎓</samp></h3>
 
 <div align="center">
 	<samp> 
@@ -23,7 +23,7 @@
 		<a href="https://kubernetes.io/"><code>Kubernetes ☸️</code></a>
 	</samp>
 </div>
-
+<br>
 <table align="center">
 		<tr>
 			<td><img alt="Zaid's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaida04&&bg_color=000000&title_color=fff&text_color=fff&langs_count=10&layout=compact&hide=css,html,shell,dockerfile" /></td>

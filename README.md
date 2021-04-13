@@ -4,7 +4,7 @@
 <div align="center">
 	<h4><code><samp>「 Open Source Intern @ <a href="https://fiveable.me/">Fiveable</a> and Student 👨‍🎓 」</samp></code></h4>
 	<samp> 
-		<h4>「 Tools and Languages 」</h4>
+		<h3>「 Tools and Languages 」</h4>
 		<a href="https://www.typescriptlang.org/"><code>TypeScript 🧰</code></a>
 		<a href="https://www.javascript.com/"><code>JavaScript 💡</code></a>
 		<a href="https://nodejs.org/"><code>Node.js ⚙️</code></a>
@@ -16,7 +16,7 @@
 	</samp>
 	<br>
 	<samp> 
-		<h4>「 Interested in 」</h4>
+		<h3>「 Interested in 」</h4>
 		<a href="https://llvm.org/"><code>C 💤</code></a>
 		<a href="https://www.rust-lang.org/"><code>Rust 🦀</code></a>
 		<a href="https://www.haskell.org/"><code>Haskell 🧮</code></a>

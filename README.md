@@ -10,7 +10,7 @@
 		<a href="https://nodejs.org/"><code>Node.js ⚙️</code></a>
 		<a href="https://www.oracle.com/java/"><code>Java ☕</code></a>
 		<a href="https://www.python.org/"><code>Python 🐍</code></a><br>
-		<a href="https://www.docker.com/"><code>Docker 🐳 / docker-compose</code></a>
+		<a href="https://www.docker.com/"><code>Docker 🐳</code></a>
 		<a href="https://www.mongodb.com/"><code>PostgreSQL 🐘</code></a>
 		<a href="https://www.postgresql.org/"><code>MongoDB 🍃</code></a>
 	</samp>

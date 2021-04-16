@@ -1,8 +1,8 @@
-<h3 align="center"><samp>Hi 👋, I'm Zaid (a.k.a Nico)</samp></h3> 
+<h3 align="center"><samp>「 Hi 👋, I'm Zaid (a.k.a Nico) 」</samp></h3> 
 
 
 <div align="center">
-	<h4><code><samp>Open Source Intern @ <a href="https://fiveable.me/">Fiveable 🏦</a> and Student 👨‍🎓</samp></code></h4>
+	<h4><code><samp> Open Source Intern @ <a href="https://fiveable.me/">Fiveable 🏦</a> and Student 👨‍🎓</samp></code></h4>
 	<samp> 
 		<h3>「 Tools and Languages 」</h4>
 		<a href="https://www.typescriptlang.org/"><code>TypeScript 🧰</code></a>

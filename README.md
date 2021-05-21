@@ -25,7 +25,7 @@
 	<br>
 	<br>
 	<details>
-		<summary><b>════ Details ════</b></summary>
+		<summary><b>════ See More Details ════</b></summary>
 		<br>
 		<table align="center">
 				<tr>

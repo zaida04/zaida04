@@ -37,6 +37,7 @@
 	<details>
 		<summary><b>════ See My Recent Activity ════</b></summary>
 		<br>
+		
 		<!--RECENT_ACTIVITY:start-->
 1. 👍 Approved [#78](https://github.com/thinkfiveable/open/pull/78#pullrequestreview-669228411) in [thinkfiveable/open](https://github.com/thinkfiveable/open)
 2. 🔴 Requested changes in [#78](https://github.com/thinkfiveable/open/pull/78#pullrequestreview-669223106) in [thinkfiveable/open](https://github.com/thinkfiveable/open)
@@ -44,5 +45,6 @@
 4. 💬 Commented on [#78](https://github.com/thinkfiveable/open/pull/78#discussion_r639876390) in [thinkfiveable/open](https://github.com/thinkfiveable/open)
 5. 👍 Approved [#78](https://github.com/thinkfiveable/open/pull/78#pullrequestreview-669222366) in [thinkfiveable/open](https://github.com/thinkfiveable/open)
 		<!--RECENT_ACTIVITY:end-->
+	
 	</details>
 </div>

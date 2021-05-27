@@ -1,0 +1,23 @@
+settings: 
+  commit_msg: "[ACTION] update readme with recent activity"
+  max_lines: 10
+  url_text: "{REPO}{ID}"
+  disabled_events:
+  - 'comments'
+  date:
+    timezone: "America/New-York"
+    text: "Last update: `{DATE}`"
+    format: "mm.dd.yyyy HH:MM:ss Z"
+messages:
+  comments: "![comment] **Commented:** {URL}"
+  issue_opened: "![issueOpened] **Issue opened:** {URL}"
+  issue_closed: "![issueClosed] **Issue closed:** {URL}"
+  pr_opened: "![pullRequestOpened] **Pull request opened:** {URL}"
+  pr_closed: "![pullRequestClosed] **Pull request closed:** {URL}"
+  pr_merged: "![pullRequestMerged] **Pull request merged:** {URL}"
+  create_repo: "![repoCreated] **Created Repository:** `{REPO}`"
+  changes_approved: "![approved] **Approved Changes:** {URL}"
+  changes_requested: "![changesRequested] **Requested Changes:** {URL}"
+  new_release: "![release] **Created Release:** {URL}"
+  new_star: "![star] **Starred** {REPO}"
+  wiki_create: "![wiki] **Wiki Page created:** {WIKI} in {REPO}"

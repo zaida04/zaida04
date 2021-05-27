@@ -37,7 +37,7 @@
 	<details>
 		<summary><b>════ See My Recent Activity ════</b></summary>
 		<br>
-		<!--START_SECTION:activity-->
-		<!--END_SECTION:activity-->
+		<!--RECENT_ACTIVITY:start-->
+		<!--RECENT_ACTIVITY:end-->
 	</details>
 </div>

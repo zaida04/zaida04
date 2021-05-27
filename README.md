@@ -34,4 +34,10 @@
 				</tr>
 		</table>
 	</details>
+	<details>
+		<summary><b>════ See My Recent Activity ════</b></summary>
+		<br>
+		<!--START_SECTION:activity-->
+		<!--END_SECTION:activity-->
+	</details>
 </div>

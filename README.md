@@ -34,17 +34,4 @@
 				</tr>
 		</table>
 	</details>
-	<details>
-		<summary><b>════ See My Recent Activity ════</b></summary>
-		<br>
-		
-		<!--RECENT_ACTIVITY:start-->
-1. ![approved] **Approved Changes:** [thinkfiveable/open#78](https://github.com/thinkfiveable/open/pull/78#pullrequestreview-669228411)
-2. ![changesRequested] **Requested Changes:** [thinkfiveable/open#78](https://github.com/thinkfiveable/open/pull/78#pullrequestreview-669223106)
-3. ![changesRequested] **Requested Changes:** [thinkfiveable/open#78](https://github.com/thinkfiveable/open/pull/78#pullrequestreview-669223106)
-4. ![approved] **Approved Changes:** [thinkfiveable/open#78](https://github.com/thinkfiveable/open/pull/78#pullrequestreview-669222366)
-5. ![star] **Starred** [porter-dev/porter](https://github.com/porter-dev/porter)
-		<!--RECENT_ACTIVITY:end-->
-	
-	</details>
 </div>

@@ -3,7 +3,7 @@
 
 <div align="center">
 	<h4><code><samp> Community & OSS Intern @ <a href="https://fiveable.me/">Fiveable 🏦</a>, BizOps Intern at <a href="https://27v.vc">27 Ventures 💼</a>, and Student 👨‍🎓</samp></code></h4>
-<h5><code><samp> Self-taught 🧠, curious 👨‍🏫, and hungry 😋</samp></code></h5>
+<h5><code><samp> self-taught 🧠, curious 👨‍🏫, and hungry 😋</samp></code></h5>
 	<samp> 
 		<h3>「 Tools and Languages 」</h4>
 		<a href="https://www.typescriptlang.org/"><code>TypeScript 🧰</code></a>

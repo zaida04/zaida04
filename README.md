@@ -2,7 +2,7 @@
 
 
 <div align="center">
-	<h3><samp> Community & OSS Intern @ <a href="https://fiveable.me/">Fiveable 🏦</a><br>BizOps Intern at <a href="https://27v.vc">27 Ventures 💼</a><br>Student 👨‍🎓</samp></h3>
+	<h3><samp> Community & OSS Intern @ <a href="https://fiveable.me/">Fiveable 🏦</a><br>BizOps Intern @ <a href="https://27v.vc">27 Ventures 💼</a><br>Student 👨‍🎓</samp></h3>
 <p><code><samp> self-taught 🧠, curious 👨‍🏫, and hungry 😋</samp></code></p>
 	<samp> 
 		<h3>「 Tools and Languages 」</h4>

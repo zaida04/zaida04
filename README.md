@@ -1,4 +1,3 @@
-<hr>
 <div align="center">
 	<h3><samp>「 Hi 👋, I'm Zaid (a.k.a Nico) 」</samp></h3> 
 </div>
@@ -25,9 +24,9 @@
 		<a href="https://www.haskell.org/">Haskell 🧮</a>
 		<a href="https://kubernetes.io/">Kubernetes ☸️</a>
 	</samp>
+	<br>
 	---
 	<br>
-		<br>
 		<table align="center">
 				<tr>
 					<td><img alt="Zaid's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaida04&text_color=9f9f9f&bg_color=00000000&langs_count=10&layout=compact&hide=css,html,shell,dockerfile" /></td>

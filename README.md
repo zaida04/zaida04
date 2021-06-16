@@ -1,9 +1,11 @@
+<hr>
 <div align="center">
 	<h3><samp>「 Hi 👋, I'm Zaid (a.k.a Nico) 」</samp></h3> 
 </div>
 
 <div align="center">
 	<h3><samp> Community & OSS Intern @ <a href="https://fiveable.me/">Fiveable 🏦</a><br>BizOps Intern @ <a href="https://27v.vc">27 Ventures 💼</a></samp></h3>
+	<hr/>
 	<samp> 
 		<h3><code>「 Tools and Languages 」</code></h4>
 		<a href="https://www.typescriptlang.org/">TypeScript 🧰</a>
@@ -23,6 +25,7 @@
 		<a href="https://www.haskell.org/">Haskell 🧮</a>
 		<a href="https://kubernetes.io/">Kubernetes ☸️</a>
 	</samp>
+	<hr/>
 	<br>
 		<br>
 		<table align="center">

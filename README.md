@@ -1,6 +1,5 @@
 <div align="center">
 	<h3><samp>「 Hi 👋, I'm Zaid (a.k.a Nico) 」</samp></h3> 
-	<p><code><samp> self-taught 🧠, curious 👨‍🏫, and hungry 😋</samp></code></p>
 </div>
 
 <div align="center">

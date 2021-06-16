@@ -18,7 +18,7 @@
 	</samp>
 	<br>
 	<samp> 
-		<h3><code>「 Interested in 」</code></h4>
+		<h3><code>「 Learning 」</code></h4>
 		<!--<a href="https://llvm.org/">C 💤</a>-->
 		<a href="https://www.rust-lang.org/">Rust 🦀</a>
 		<!--<a href="https://www.haskell.org/">Haskell 🧮</a>-->

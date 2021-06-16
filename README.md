@@ -25,7 +25,7 @@
 		<a href="https://kubernetes.io/">Kubernetes ☸️</a>
 	</samp>
 	<br>
-	---
+	<hr/>
 	<br>
 		<table align="center">
 				<tr>

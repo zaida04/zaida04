@@ -20,7 +20,7 @@
 	<samp> 
 		<h3><code>「 Learning 」</code></h4>
 		<!--<a href="https://llvm.org/">C 💤</a>-->
-		<a href="https://www.rust-lang.org/">Rust 🦀</a>
+		<a href="https://www.rust-lang.org/">Rust 🦀</a><br>
 		<!--<a href="https://www.haskell.org/">Haskell 🧮</a>-->
 		<a href="https://kubernetes.io/">Kubernetes ☸️</a>
 	</samp>

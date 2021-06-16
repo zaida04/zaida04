@@ -1,27 +1,28 @@
-<h3 align="center"><samp>「 Hi 👋, I'm Zaid (a.k.a Nico) 」</samp></h3> 
-
+<div align="center">
+	<h3><samp>「 Hi 👋, I'm Zaid (a.k.a Nico) 」</samp></h3> 
+	<p><code><samp> self-taught 🧠, curious 👨‍🏫, and hungry 😋</samp></code></p>
+</div>
 
 <div align="center">
-	<h3><samp> Community & OSS Intern @ <a href="https://fiveable.me/">Fiveable 🏦</a><br>BizOps Intern @ <a href="https://27v.vc">27 Ventures 💼</a><br>Student 👨‍🎓</samp></h3>
-<p><code><samp> self-taught 🧠, curious 👨‍🏫, and hungry 😋</samp></code></p>
+	<h3><samp> Community & OSS Intern @ <a href="https://fiveable.me/">Fiveable 🏦</a><br>BizOps Intern @ <a href="https://27v.vc">27 Ventures 💼</a></samp></h3>
 	<samp> 
-		<h3>「 Tools and Languages 」</h4>
-		<a href="https://www.typescriptlang.org/"><code>TypeScript 🧰</code></a>
-		<a href="https://www.javascript.com/"><code>JavaScript 💡</code></a>
-		<a href="https://nodejs.org/"><code>Node.js ⚙️</code></a>
-		<a href="https://www.oracle.com/java/"><code>Java ☕</code></a>
-		<a href="https://www.python.org/"><code>Python 🐍</code></a><br>
-		<a href="https://www.docker.com/"><code>Docker 🐳</code></a>
-		<a href="https://www.mongodb.com/"><code>PostgreSQL 🐘</code></a>
-		<a href="https://www.postgresql.org/"><code>MongoDB 🍃</code></a>
+		<h3><code>「 Tools and Languages 」</code></h4>
+		<a href="https://www.typescriptlang.org/">TypeScript 🧰</a>
+		<a href="https://www.javascript.com/">JavaScript 💡</a>
+		<a href="https://nodejs.org/">Node.js ⚙️</a>
+		<a href="https://www.oracle.com/java/">Java ☕</a>
+		<a href="https://www.python.org/">Python 🐍</a><br>
+		<a href="https://www.docker.com/">Docker 🐳</a>
+		<a href="https://www.mongodb.com/">PostgreSQL 🐘</a>
+		<a href="https://www.postgresql.org/">MongoDB 🍃</a>
 	</samp>
 	<br>
 	<samp> 
-		<h3>「 Interested in 」</h4>
-		<a href="https://llvm.org/"><code>C 💤</code></a>
-		<a href="https://www.rust-lang.org/"><code>Rust 🦀</code></a>
-		<a href="https://www.haskell.org/"><code>Haskell 🧮</code></a>
-		<a href="https://kubernetes.io/"><code>Kubernetes ☸️</code></a>
+		<h3><code>「 Interested in 」</code></h4>
+		<a href="https://llvm.org/">C 💤</a>
+		<a href="https://www.rust-lang.org/">Rust 🦀</a>
+		<a href="https://www.haskell.org/">Haskell 🧮</a>
+		<a href="https://kubernetes.io/">Kubernetes ☸️</a>
 	</samp>
 	<br>
 	<br>

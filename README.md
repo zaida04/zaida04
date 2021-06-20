@@ -34,5 +34,5 @@
 				</tr>
 		</table>
 	
-		<h4><samp> Connect with me on <a href="https://www.linkedin.com/in/zaid-arshad/">LinkedIn</a>!</samp></h4>
+	<h4><samp> Connect with me on <a href="https://www.linkedin.com/in/zaid-arshad/">LinkedIn</a>!</samp></h4>
 </div>

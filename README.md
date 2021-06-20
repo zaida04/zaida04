@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-	<h3><samp> Community & Open Source Intern <br>@ <a href="https://fiveable.me/">Fiveable 🏦</a></samp></h3>
+	<h3><samp> Community & Open Source Intern @ <a href="https://fiveable.me/">Fiveable 🏦</a></samp></h3>
 	<h4><samp> Connect with me on <a href="https://www.linkedin.com/in/zaid-arshad/">LinkedIn</a>!</samp></h4>
 	---
 	<samp> 

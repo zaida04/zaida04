@@ -6,7 +6,7 @@
 	<h3><samp> Community & Open Source Intern @ <a href="https://fiveable.me/">Fiveable 🏦</a><br>BizOps Intern @ <a href="https://27v.vc">27 Ventures 💼</a></samp></h3>
 	---
 	<samp> 
-		<h3><code>「 Tools and Languages 」</code></h4>
+		<h3>「 Tools and Languages 」</h4>
 		<a href="https://www.typescriptlang.org/">TypeScript 🧰</a>
 		<a href="https://www.javascript.com/">JavaScript 💡</a>
 		<a href="https://nodejs.org/">Node.js ⚙️</a>
@@ -18,7 +18,7 @@
 	</samp>
 	<br>
 	<samp> 
-		<h3><code>「 Learning 」</code></h4>
+		<h3>「 Learning 」</h4>
 		<!--<a href="https://llvm.org/">C 💤</a>-->
 		<a href="https://www.rust-lang.org/">Rust 🦀</a><br>
 		<!--<a href="https://www.haskell.org/">Haskell 🧮</a>-->

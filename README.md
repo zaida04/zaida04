@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-	<h3><samp> Community & Open Source Intern @ <a href="https://fiveable.me/">Fiveable 🏦</a><br>BizOps Intern @ <a href="https://27v.vc">27 Ventures 💼</a></samp></h3>
+	<h3><samp> Community & Open Source Intern @ <a href="https://fiveable.me/">Fiveable 🏦</a></samp></h3>
 	---
 	<samp> 
 		<h3>「 Tools and Languages 」</h4>

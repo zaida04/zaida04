@@ -4,6 +4,7 @@
 
 <div align="center">
 	<h3><samp> Community & Open Source Intern @ <a href="https://fiveable.me/">Fiveable 🏦</a></samp></h3>
+	<h5><samp> Connect with me on <a href="https://www.linkedin.com/in/zaid-arshad/">LinkedIn</a>!</samp></h5>
 	---
 	<samp> 
 		<h3>「 Tools and Languages 」</h4>

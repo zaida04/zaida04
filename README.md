@@ -19,11 +19,11 @@
 	</samp>
 	<br>
 	<samp> 
-		<h3>「 Learning 」</h4>
+		<!--<h3>「 Learning 」</h4>-->
 		<!--<a href="https://llvm.org/">C 💤</a>-->
-		<a href="https://www.rust-lang.org/">Rust 🦀</a><br>
+		<!--<a href="https://www.rust-lang.org/">Rust 🦀</a><br>-->
 		<!--<a href="https://www.haskell.org/">Haskell 🧮</a>-->
-		<a href="https://kubernetes.io/">Kubernetes ☸️</a>
+		<!--<a href="https://kubernetes.io/">Kubernetes ☸️</a>-->
 	</samp>
 	<br>
 	<hr/>

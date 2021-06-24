@@ -4,7 +4,7 @@
 
 <div align="center">
 	<h3><samp> Community Support & Open Source Intern @ <a href="https://fiveable.me/">Fiveable 🏦</a></samp></h3>
-	<h4><code> {"Self-taught 🧠", "Energetic ⚡", "Student 👨‍🎓"}</code></h4>
+	<h4><code> { "Self-taught 🧠", "Energetic ⚡", "Student 👨‍🎓" }</code></h4>
 	---
 	<samp> 
 		<h3>「 Tools and Languages 」</h4>

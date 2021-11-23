@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-	<h3><samp> Jr. Software Engineering @ <a href="https://fiveable.me/">Fiveable 🏦</a></samp></h3>
+	<h3><samp> Jr. Software Engineer @ <a href="https://fiveable.me/">Fiveable 🏦</a></samp></h3>
 	<p>Self-taught 🧠 Energetic ⚡ Student 👨‍🎓</p>
 	---
 	<samp> 

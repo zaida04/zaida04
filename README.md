@@ -1,9 +1,8 @@
 <div align="center">
-	<h3><samp>「 Hi 👋, I'm Zaid (a.k.a Nico) 」</samp></h3> 
+	<h3><samp>「 Hi 👋, I'm Zaid (Nico) 」</samp></h3> 
 </div>
 
 <div align="center">
-	<h3><samp> Jr. Software Engineer @ <a href="https://fiveable.me/">Fiveable 🏦</a></samp></h3>
 	<p>Self-taught 🧠 Energetic ⚡ Student 👨‍🎓</p>
 	---
 	<samp> 

@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-	<p>Self-taught 🧠 Energetic ⚡ Student 👨‍🎓</p>
+	<p>Self-taught 🧠 Energetic ⚡</p>
 	---
 	<samp> 
 		<h3>「 Tools and Languages 」</h4>

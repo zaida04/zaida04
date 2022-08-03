@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-	<p>Self-taught 🧠 Energetic ⚡</p>
+	<p>A self-taught developer passionate about making things that help others</p>
 	---
 	<samp> 
 		<h3>「 Tools and Languages 」</h4>

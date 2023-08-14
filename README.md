@@ -4,6 +4,7 @@
 
 <div align="center">
 	<p>Full-stack software engineer & student. <br><a href="https://nico.engineer">Want to know more about me?</a></p>
+	<p>Websites I've built: <a href="https://yoki.gg">Yoki.gg</a>, <a href="https://razuberri.nico.engineer">Razuberri</a>, <a href="https://evalx.sh">Evalx.sh</a>, and <a href="https://nico.engineer">My Portfolio</a></p>
 	---
 	<samp> 
 		<h3>「 Tools and Languages 」</h4>

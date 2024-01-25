@@ -6,7 +6,7 @@
 	<p>Full-stack software engineer & student. <br><a href="https://nico.engineer">Want to know more about me?</a></p>
 	---
 	<samp> 
-		<h3>「 Tools and Languages 」</h4>
+<!-- 		<h3>「 Tools and Languages 」</h4>
 		<a href="https://www.typescriptlang.org/">TypeScript 🧰</a>
 		<a href="https://www.javascript.com/">JavaScript 💡</a>
 		<a href="https://nodejs.org/">Node.js ⚙️</a>
@@ -14,7 +14,7 @@
 		<a href="https://www.python.org/">Python 🐍</a><br>
 		<a href="https://www.docker.com/">Docker 🐳</a>
 		<a href="https://www.mongodb.com/">PostgreSQL 🐘</a>
-		<a href="https://www.postgresql.org/">MongoDB 🍃</a>
+		<a href="https://www.postgresql.org/">MongoDB 🍃</a> -->
 	</samp>
 	<br>
 	<samp> 

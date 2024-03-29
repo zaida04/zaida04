@@ -29,7 +29,7 @@
 		<table align="center">
 				<tr>
 					<td><img alt="Zaid's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaida04&text_color=9f9f9f&bg_color=00000000&langs_count=10&layout=compact&hide=css,html,shell,dockerfile,powershell,markdown" /></td>
-					<td><img alt="Zaid's Github Stats" src="https://github-readme-stats.vercel.app/api?username=zaida04&count_private=true&text_color=9f9f9f&bg_color=00000000&hide=stars&include_all_commits=true&show_icons=true" /></td>
+					<td><img alt="Zaid's Github Stats" src="https://github-readme-stats.vercel.app/api?username=zaida04&count_private=true&show=prs_merged&text_color=9f9f9f&bg_color=00000000&hide=stars,contribs&include_all_commits=true&show_icons=true&number_format=long" /></td>
 				</tr>
 		</table>
 </div>

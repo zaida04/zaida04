@@ -33,3 +33,8 @@
 				</tr>
 		</table>
 </div>
+
+
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/zaida04/zaida04/assets/19440022/1783ddab-e77e-4904-8e74-140ca89ff237')
+;]{x0000}$}

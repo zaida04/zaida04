@@ -36,5 +36,5 @@
 
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url:('https://github.com/zaida04/zaida04/assets/19440022/d3194864-b654-4eab-a939-11ef5e51e8ff')
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url:('https://i.pinimg.com/736x/8c/9d/f7/8c9df7b71f2ca544319f9f93b7abe10b.jpg')
 ;]{x0000}$}

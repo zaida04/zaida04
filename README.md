@@ -34,7 +34,5 @@
 		</table>
 </div>
 
-
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://i.pinimg.com/736x/8c/9d/f7/8c9df7b71f2ca544319f9f93b7abe10b.jpg')
-;]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/zaida04/zaida04/assets/19440022/e9a7193f-a605-4608-a5fc-391cfa2d0de0');]{x0000}$}

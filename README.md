@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-	<p>Full-stack software engineer & student. <br><a href="https://nico.engineer">Want to know more about me?</a></p>
+	<p>Full-stack software engineer & student. <br><a href="https://nico.engineer">Want to know more about me?</a><br><a href="https://www.linkedin.com/in/zaid-arsh/">Want to connect on Linkedin?</a></p>
 	---
 	<samp> 
 <!-- 		<h3>「 Tools and Languages 」</h4>
